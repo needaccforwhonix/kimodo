@@ -1,0 +1,2562 @@
+[
+  {
+    "file": "docker_requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MANIFEST.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".pre-commit-config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ATTRIBUTIONS.MD",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [
+      "sorting"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [
+      "them."
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "setup.py",
+    "dependencies": [
+      "Path",
+      "setuptools.command.build_ext",
+      "pathlib",
+      "build_ext",
+      "shutil",
+      "sys",
+      "os",
+      "setuptools",
+      "Extension",
+      "subprocess",
+      "if"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docker_requirements.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.MD",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docker-compose.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/MANIFEST.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/README.md",
+    "dependencies": [
+      "motion_correction"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/setup.py",
+    "dependencies": [
+      "Path",
+      "setuptools.command.build_ext",
+      "pathlib",
+      "build_ext",
+      "shutil",
+      "sys",
+      "os",
+      "setuptools",
+      "Extension",
+      "subprocess",
+      "if",
+      "pdb"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/run_test.py",
+    "dependencies": [
+      "motion_correction.motion_postprocess",
+      "torch",
+      "correct_motion"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/CMakeLists.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/BindingsPython.cpp",
+    "dependencies": [
+      "pybind11/pybind11.h",
+      "pybind11/stl.h",
+      "AnimProcessing/Utility.h",
+      "pybind11/numpy.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Platform.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Debug.h",
+    "dependencies": [
+      "Platform.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Compiler.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/SIMD.h",
+    "dependencies": [
+      "immintrin.h",
+      "stdint.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Constants.h",
+    "dependencies": [
+      "limits"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Vector.cpp",
+    "dependencies": [
+      "Vector.h",
+      "Quaternion.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Transform.h",
+    "dependencies": [
+      "Matrix.h",
+      "Transform.inl",
+      "steps"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Matrix.cpp",
+    "dependencies": [
+      "Matrix.h",
+      "cfloat"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Transform.inl",
+    "dependencies": [
+      "Transform.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Scalar.h",
+    "dependencies": [
+      "math.h",
+      "Constants.h",
+      "Debug.h",
+      "stdint.h",
+      "Compiler.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Vector.h",
+    "dependencies": [
+      "Types.h",
+      "SIMD.h",
+      "Constants.h",
+      "Vector.inl",
+      "Compiler.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Transform.cpp",
+    "dependencies": [
+      "Transform.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Quaternion.cpp",
+    "dependencies": [
+      "Matrix.h",
+      "Quaternion.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Quaternion.h",
+    "dependencies": [
+      "Vector.h",
+      "Quaternion.inl"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Quaternion.inl",
+    "dependencies": [
+      "Quaternion.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Types.cpp",
+    "dependencies": [
+      "Types.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Matrix.h",
+    "dependencies": [
+      "Matrix.inl",
+      "Vector.h",
+      "Quaternion.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Types.h",
+    "dependencies": [
+      "Scalar.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Matrix.inl",
+    "dependencies": [
+      "Matrix.h",
+      "cstring"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/Math/Vector.inl",
+    "dependencies": [
+      "Vector.h",
+      "cstring"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/InverseKinematics.cpp",
+    "dependencies": [
+      "Math/Scalar.h",
+      "InverseKinematics.h",
+      "iostream"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/TrajectoryCorrector.h",
+    "dependencies": [
+      "Eigen/Sparse"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/InverseKinematics.h",
+    "dependencies": [
+      "Math/Transform.h",
+      "vector"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/Utility.h",
+    "dependencies": [
+      "Math/Transform.h",
+      "string",
+      "vector"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/TrajectoryCorrector.cpp",
+    "dependencies": [
+      "TrajectoryCorrector.h",
+      "iostream"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/src/cpp/AnimProcessing/Utility.cpp",
+    "dependencies": [
+      "InverseKinematics.h",
+      "map",
+      "iostream",
+      "Utility.h",
+      "TrajectoryCorrector.h",
+      "array",
+      "cstdlib",
+      "cmath"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/python/motion_correction/__init__.py",
+    "dependencies": [
+      "._motion_correction"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MotionCorrection/python/motion_correction/motion_postprocess.py",
+    "dependencies": [
+      "motion_correction",
+      "numpy",
+      "os",
+      "pickle",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/Makefile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/.gitattributes",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/make.bat",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/conf.py",
+    "dependencies": [
+      "os",
+      "sys"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/project_structure.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/project_info.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/model.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/exports.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/constraints.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/motion_rep.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/utilities.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/index.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/viz.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/post-processing.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/modules.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.skeleton.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.exports.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.motion_rep.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.motion_rep.reps.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.model.llm2vec.models.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.viz.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.scripts.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.metrics.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.model.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.model.llm2vec.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/api_reference/_generated/kimodo.demo.rst",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/getting_started/installation_smpl.md",
+    "dependencies": [
+      "kimodo.assets",
+      "skeleton_asset_path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/getting_started/installation.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/getting_started/installation_virtual_env.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/getting_started/installation_docker.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/getting_started/quick_start.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/key_concepts/constraints.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/key_concepts/motion_representation.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/key_concepts/skeleton.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/key_concepts/limitations.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/key_concepts/model.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/benchmark/introduction.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/benchmark/metrics.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/benchmark/pipeline.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/benchmark/results.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/constraints.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/output_formats.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/cli.md",
+    "dependencies": [
+      "kimodo",
+      "load_model"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/motion_convert.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/seed_dataset.md",
+    "dependencies": [
+      "kimodo.skeleton",
+      "kimodo.motion_rep",
+      "kimodo.skeleton.bvh",
+      "SOMASkeleton77",
+      "KimodoMotionRep",
+      "parse_bvh_motion"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/user_guide/configuration.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/constraints.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/ui_overview.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/generation.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/export_results.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/examples.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/model_selection.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/interactive_demo/launching.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/_static/logo-placeholder.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/_static/custom.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/_static/hero-placeholder.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/_templates/apidoc/module.rst.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/source/_templates/apidoc/package.rst.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/postprocess.py",
+    "dependencies": [
+      ".constraints",
+      ".skeleton",
+      "types",
+      "numpy",
+      "motion_correction",
+      "Dict",
+      ".geometry",
+      "matrix_to_quaternion",
+      "typing",
+      "SimpleNamespace",
+      "torch",
+      "motion_postprocess"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/__init__.py",
+    "dependencies": [
+      ".model.load_model",
+      "AVAILABLE_MODELS"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/sanitize.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/tools.py",
+    "dependencies": [
+      "random",
+      "Path",
+      "json",
+      "numpy",
+      "inspect",
+      "functools",
+      "prod",
+      "wraps",
+      "Any",
+      "typing",
+      "pathlib",
+      "collections.abc",
+      "Mapping",
+      "torch",
+      "math"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/geometry.py",
+    "dependencies": [
+      "torch.nn.functional",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets.py",
+    "dependencies": [
+      "Path",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/meta.py",
+    "dependencies": [
+      "load_json",
+      "os",
+      "kimodo.tools",
+      "Any",
+      "typing",
+      "sanitize_text",
+      ".sanitize"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/constraints.py",
+    "dependencies": [
+      "Optional",
+      "kimodo.skeleton",
+      "axis_angle_to_matrix",
+      ".geometry",
+      "Tensor",
+      "compute_heading_angle",
+      "kimodo.tools",
+      "SkeletonBase",
+      "typing",
+      "torch",
+      "ensure_batched",
+      "kimodo.motion_rep.feature_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/feet.py",
+    "dependencies": [
+      "..tools",
+      "torch",
+      "ensure_batched"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/__init__.py",
+    "dependencies": [
+      ".reps",
+      "KimodoMotionRep"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/conditioning.py",
+    "dependencies": [
+      "defaultdict",
+      "collections",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/feature_utils.py",
+    "dependencies": [
+      "einops",
+      "kimodo.geometry",
+      "kimodo.skeleton",
+      "kimodo.tools",
+      "SkeletonBase",
+      "cont6d_to_matrix",
+      "typing",
+      "torch",
+      "ensure_batched",
+      "List"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/stats.py",
+    "dependencies": [
+      "Optional",
+      "logging",
+      "numpy",
+      "os",
+      "typing",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/smooth_root.py",
+    "dependencies": [
+      "sparse",
+      "splu",
+      "numpy",
+      "scipy.sparse.linalg",
+      "kimodo.tools",
+      "torch",
+      "ensure_batched",
+      "math",
+      "scipy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/reps/__init__.py",
+    "dependencies": [
+      ".tmr_motionrep",
+      ".kimodo_motionrep",
+      "KimodoMotionRep",
+      "MotionRepBase",
+      "TMRMotionRep",
+      ".base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/reps/base.py",
+    "dependencies": [
+      "..conditioning",
+      "..stats",
+      "einops",
+      "Optional",
+      "compute_vel_angle",
+      "numpy",
+      "Stats",
+      "...tools",
+      "..feature_utils",
+      "build_condition_dicts",
+      "os",
+      "typing",
+      "torch",
+      "ensure_batched",
+      "repeat"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/reps/kimodo_motionrep.py",
+    "dependencies": [
+      "..conditioning",
+      "Tensor",
+      "foot_detect_from_pos_and_vel",
+      "MotionRepBase",
+      "get_unique_index_and_data",
+      "ensure_batched",
+      "Optional",
+      "get_smooth_root_pos",
+      "..feature_utils",
+      "...geometry",
+      "fk",
+      "RotateFeatures",
+      "...tools",
+      "..feet",
+      "...skeleton.transforms",
+      "..smooth_root",
+      ".base",
+      "global_rots_to_local_rots",
+      "einops",
+      "...skeleton.kinematics",
+      "to_numpy",
+      "kimodo.tools",
+      "typing",
+      "torch",
+      "cont6d_to_matrix"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/motion_rep/reps/tmr_motionrep.py",
+    "dependencies": [
+      "einops",
+      "Optional",
+      "fk",
+      "RotateFeatures",
+      "...skeleton.kinematics",
+      "...tools",
+      "..feature_utils",
+      "..feet",
+      "foot_detect_from_pos_and_vel",
+      "MotionRepBase",
+      "typing",
+      "torch",
+      "ensure_batched",
+      ".base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/07_text_terrain/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/03_full_body_keyframes/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/03_full_body_keyframes/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/08_text_object/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/02_multi_text_ee_constraint/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/02_multi_text_ee_constraint/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/06_root_waypoints/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/06_root_waypoints/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/01_single_text_prompt/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/04_ee_constraint/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/04_ee_constraint/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/05_root_path/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-g1-rp/05_root_path/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/03_full_body_keyframes/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/03_full_body_keyframes/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/08_stylized_text/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/07_mixed_constraints/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/07_mixed_constraints/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/06_root_waypoints/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/06_root_waypoints/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/01_single_text_prompt/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/04_ee_constraint/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/04_ee_constraint/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/02_multi_text_prompt/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/05_root_path/constraints.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/demo/examples/kimodo-soma-rp/05_root_path/meta.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/skeletons/g1skel34/xml/g1.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/assets/skeletons/somaskel77/somaskel77_standard_tpose.bvh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/__main__.py",
+    "dependencies": [
+      "kimodo.demo",
+      "main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/__init__.py",
+    "dependencies": [
+      ".app",
+      "resolve_model_name",
+      "kimodo.model",
+      "argparse",
+      "Demo",
+      "DEFAULT_MODEL",
+      "kimodo.model.registry"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/queue_manager.py",
+    "dependencies": [
+      ".config",
+      "viser",
+      "time",
+      "collections.abc",
+      "Any",
+      "DEMO_UI_QUICK_START_MODAL_MD",
+      "typing",
+      "Callable",
+      "threading",
+      "math"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/app.py",
+    "dependencies": [
+      "load_json",
+      "QueueManager",
+      "DEMO_ASSETS_ROOT",
+      "TitlebarButton",
+      "kimodo.model.load_model",
+      "sys",
+      "kimodo.viz",
+      "resolve_model_name",
+      ".state",
+      "viser_utils",
+      "Optional",
+      "CachedTextEncoder",
+      "ClientSession",
+      "viser",
+      "os",
+      ".",
+      "threading",
+      "kimodo.assets",
+      ".config",
+      "viser.theme",
+      ".queue_manager",
+      "kimodo.model.registry",
+      "base64",
+      ".embedding_cache",
+      "kimodo.skeleton",
+      "numpy",
+      "shutil",
+      "time",
+      "kimodo.tools",
+      "kimodo.viz.viser_utils",
+      "SkeletonBase",
+      "typing",
+      "load_model",
+      "generation",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/state.py",
+    "dependencies": [
+      "GuiElements",
+      "Optional",
+      "kimodo.skeleton",
+      ".config",
+      "viser",
+      "dataclass",
+      "SkeletonBase",
+      "typing",
+      "kimodo.viz.viser_utils",
+      "dataclasses",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/embedding_cache.py",
+    "dependencies": [
+      "Iterable",
+      "collections",
+      "json",
+      "numpy",
+      "time",
+      "dataclass",
+      "sanitize_texts",
+      "os",
+      "kimodo.sanitize",
+      "contextlib",
+      "OrderedDict",
+      "typing",
+      "torch",
+      "dataclasses",
+      "hashlib",
+      "threading",
+      "contextvars"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/generation.py",
+    "dependencies": [
+      "Optional",
+      "seed_everything",
+      "CachedTextEncoder",
+      "defaultdict",
+      "ClientSession",
+      "collections",
+      "numpy",
+      "viser",
+      "apply_g1_real_robot_projection",
+      "kimodo.exports.mujoco",
+      "kimodo.skeleton",
+      "kimodo.tools",
+      "kimodo.constraints",
+      "typing",
+      ".state",
+      "torch",
+      ".embedding_cache",
+      "G1Skeleton34"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/config.py",
+    "dependencies": [
+      "os",
+      "DEMO_EXAMPLES_ROOT",
+      "kimodo.assets",
+      "kimodo.model.registry"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/demo/ui.py",
+    "dependencies": [
+      "load_json",
+      "to_torch",
+      "kimodo.exports.motion_io",
+      "load_constraints_lst",
+      "json",
+      "kimodo.meta",
+      "save_json",
+      "imageio.v3",
+      "kimodo.viz",
+      "kimodo.constraints",
+      "PROMPT_COLORS",
+      ".state",
+      "motion_to_bvh_bytes",
+      "kimodo.exports.bvh",
+      "traceback",
+      "viser_utils",
+      "Optional",
+      "ClientSession",
+      "viser",
+      "os",
+      ".",
+      "kimodo_short_key_for_skeleton_dataset",
+      "threading",
+      "GuiElements",
+      ".config",
+      "viser._timeline_api",
+      "_messages",
+      "kimodo.model.registry",
+      "base64",
+      "parse_prompts_from_meta",
+      "global_rots_to_local_rots",
+      "kimodo.skeleton",
+      "numpy",
+      "kimodo.tools",
+      "typing",
+      "kimodo.viz.viser_utils",
+      "generation",
+      "torch",
+      "math",
+      "G1Skeleton34"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/gradio_theme.py",
+    "dependencies": [
+      "gradio",
+      "url"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/mujoco_load.py",
+    "dependencies": [
+      "kimodo.assets",
+      "numpy",
+      "time",
+      "mujoco",
+      "skeleton_asset_path",
+      "mujoco.viewer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/lock_requirements.py",
+    "dependencies": [
+      "Path",
+      "Iterable",
+      "pathlib",
+      "shutil",
+      "argparse",
+      "subprocess",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/motion_convert.py",
+    "dependencies": [
+      "sys",
+      "kimodo.exports.motion_convert_lib",
+      "argparse",
+      "convert_motion_files",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/docker-entrypoint.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/run_text_encoder_server.py",
+    "dependencies": [
+      "resolve_target",
+      "numpy",
+      "get_gradio_theme",
+      ".gradio_theme",
+      "os",
+      "kimodo.model",
+      "argparse",
+      "gradio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/scripts/generate.py",
+    "dependencies": [
+      "load_json",
+      "kimodo.exports.motion_io",
+      "load_constraints_lst",
+      "kimodo.meta",
+      "kimodo.constraints",
+      "kimodo.exports.bvh",
+      "load_prompts_from_meta",
+      "CFG_TYPES",
+      "kimodo.model.cfg",
+      "SOMASkeleton30",
+      "os",
+      "argparse",
+      "save_kimodo_npz",
+      "get_model_info",
+      "Any",
+      "AMASSConverter",
+      "DEFAULT_MODEL",
+      "kimodo.model.registry",
+      "kimodo.skeleton",
+      "save_motion_bvh",
+      "shutil",
+      "MujocoQposConverter",
+      "kimodo.tools",
+      "typing",
+      "kimodo.exports.smplx",
+      "kimodo",
+      "torch",
+      "kimodo.exports.mujoco"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/metrics/__init__.py",
+    "dependencies": [
+      ".constraints",
+      ".tmr",
+      "ContraintFollow",
+      ".foot_skate",
+      ".base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/metrics/tmr.py",
+    "dependencies": [
+      "Metric",
+      "defaultdict",
+      "collections",
+      "numpy",
+      "scipy",
+      "Tensor",
+      "linalg",
+      "kimodo.model.tmr",
+      "Any",
+      "TMR",
+      "torch",
+      "typing",
+      "annotations",
+      ".base",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/metrics/foot_skate.py",
+    "dependencies": [
+      "Metric",
+      "kimodo.motion_rep.feature_utils",
+      "kimodo.skeleton",
+      "Dict",
+      "Tensor",
+      "kimodo.tools",
+      "foot_detect_from_pos_and_vel",
+      ".base",
+      "SkeletonBase",
+      "torch",
+      "typing",
+      "annotations",
+      "kimodo.motion_rep.feet",
+      "ensure_batched",
+      "compute_vel_xyz",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/metrics/base.py",
+    "dependencies": [
+      "defaultdict",
+      "collections",
+      "Dict",
+      "typing",
+      "torch",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/metrics/constraints.py",
+    "dependencies": [
+      "Metric",
+      "defaultdict",
+      "collections",
+      "Dict",
+      "Tensor",
+      "kimodo.tools",
+      "kimodo.constraints",
+      "typing",
+      "torch",
+      "annotations",
+      "ensure_batched",
+      ".base",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/scene.py",
+    "dependencies": [
+      ".soma_skin",
+      "traceback",
+      "Optional",
+      "viser",
+      "os",
+      "trimesh",
+      "SOMASkin",
+      "Path",
+      ".smplx_skin",
+      "pathlib",
+      "viser.transforms",
+      ".coords",
+      "rotation_matrix_from_two_vec",
+      "kimodo.skeleton",
+      "numpy",
+      "SMPLXSkin",
+      ".g1_rig",
+      "typing",
+      ".soma_layer_skin",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/g1_rig.py",
+    "dependencies": [
+      "kimodo.assets",
+      "kimodo.exports.mujoco",
+      "kimodo.skeleton",
+      "numpy",
+      "viser",
+      "MujocoQposConverter",
+      "os",
+      "trimesh",
+      "xml.etree.ElementTree",
+      "Any",
+      "typing",
+      "skeleton_asset_path",
+      "viser.transforms",
+      "G1Skeleton34"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/__init__.py",
+    "dependencies": [
+      ".",
+      "viser_utils",
+      ".viser_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/playback.py",
+    "dependencies": [
+      "kimodo.skeleton",
+      "to_numpy",
+      "numpy",
+      ".g1_rig",
+      "kimodo.tools",
+      "Character",
+      ".scene",
+      "typing",
+      "Callable",
+      "torch",
+      "viser.transforms"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/viser_utils.py",
+    "dependencies": [
+      "GuiElements",
+      "CharacterMotion",
+      ".constraint_ui",
+      ".playback",
+      "os",
+      ".gui",
+      ".scene"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/coords.py",
+    "dependencies": [
+      "numpy"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/soma_layer_skin.py",
+    "dependencies": [
+      "kimodo.assets",
+      "soma",
+      "snapshot_download",
+      "Path",
+      "huggingface_hub",
+      "SomaLayer",
+      "kimodo.skeleton",
+      "numpy",
+      "SOMASkeleton30",
+      "SOMA_ASSETS_ROOT",
+      "pathlib",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/constraint_ui.py",
+    "dependencies": [
+      "get_smooth_root_pos",
+      "scipy.interpolate",
+      "kimodo.skeleton",
+      "to_numpy",
+      "numpy",
+      "viser",
+      "kimodo.tools",
+      "List",
+      "SkeletonMesh",
+      "SkeletonBase",
+      "interp1d",
+      "typing",
+      ".scene",
+      "torch",
+      "kimodo.motion_rep.smooth_root",
+      "viser.transforms"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/soma_skin.py",
+    "dependencies": [
+      "Path",
+      "kimodo.skeleton",
+      "numpy",
+      "pathlib",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/smplx_skin.py",
+    "dependencies": [
+      "Path",
+      "ipdb",
+      "kimodo.geometry",
+      "kimodo.skeleton",
+      "pathlib",
+      "numpy",
+      "axis_angle_to_matrix",
+      "os",
+      "warnings",
+      "SMPLXSkeleton22",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/viz/gui.py",
+    "dependencies": [
+      "dataclasses",
+      "viser",
+      "dataclass"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/__init__.py",
+    "dependencies": [
+      "LLM2VecEncoder",
+      "Kimodo",
+      "resolve_target",
+      ".kimodo_model",
+      ".load_model",
+      ".loading",
+      ".tmr",
+      ".common",
+      ".twostage_denoiser",
+      ".llm2vec",
+      "TMR",
+      "load_model",
+      "TwostageDenoiser"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/kimodo_model.py",
+    "dependencies": [
+      "logging",
+      "nn",
+      "Dict",
+      "kimodo.constraints",
+      "kimodo.motion_rep.feature_utils",
+      "ClassifierFreeGuidedModel",
+      "DDIMSampler",
+      "SOMASkeleton30",
+      "sanitize_texts",
+      "compute_heading_angle",
+      "kimodo.sanitize",
+      "kimodo.postprocess",
+      ".diffusion",
+      "EndEffectorConstraintSet",
+      ".cfg",
+      "kimodo.skeleton",
+      "to_numpy",
+      "tqdm",
+      "kimodo.tools",
+      "tqdm.auto",
+      "typing",
+      "torch",
+      "post_process_motion"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/text_encoder_api.py",
+    "dependencies": [
+      "uuid",
+      "logging",
+      "numpy",
+      "Client",
+      "gradio_client",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/registry.py",
+    "dependencies": [
+      "re",
+      "Optional",
+      "dataclass",
+      "typing",
+      "dataclasses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/cfg.py",
+    "dependencies": [
+      "torch.nn",
+      "torch",
+      "Dict",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/twostage_denoiser.py",
+    "dependencies": [
+      "Optional",
+      ".loading",
+      "nn",
+      ".backbone",
+      "contextlib",
+      "TransformerEncoderBlock",
+      "load_checkpoint_state_dict",
+      "typing",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/loading.py",
+    "dependencies": [
+      "load_file",
+      "Path",
+      "hydra.utils",
+      "omegaconf",
+      "safetensors.torch",
+      "os",
+      ".registry",
+      "Any",
+      "typing",
+      "pathlib",
+      "OmegaConf",
+      "torch",
+      "instantiate"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/load_model.py",
+    "dependencies": [
+      "snapshot_download",
+      "Path",
+      "Optional",
+      "huggingface_hub",
+      "omegaconf",
+      ".loading",
+      "get_model_info",
+      ".registry",
+      "typing",
+      "pathlib",
+      "OmegaConf"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/tmr.py",
+    "dependencies": [
+      "Dict",
+      "Tensor",
+      "ensure_batched",
+      "kimodo.motion_rep.feature_utils",
+      "torch.nn",
+      "sanitize_texts",
+      "kimodo.model",
+      "load_checkpoint_state_dict",
+      "repeat",
+      "Path",
+      "kimodo.sanitize",
+      "length_to_mask",
+      "pathlib",
+      "einops",
+      "kimodo.skeleton",
+      "kimodo.tools",
+      "contextlib",
+      "SkeletonBase",
+      "typing",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/diffusion.py",
+    "dependencies": [
+      "Optional",
+      "nn",
+      "typing",
+      "torch",
+      "math"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/backbone.py",
+    "dependencies": [
+      "ListConfig",
+      "Optional",
+      "logging",
+      "omegaconf",
+      "torch.nn",
+      "dataclass",
+      "Tensor",
+      "kimodo.tools",
+      "validate",
+      "TransformerEncoder",
+      "typing",
+      "pydantic.dataclasses",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/common.py",
+    "dependencies": [
+      "os",
+      "importlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/llm2vec_wrapper.py",
+    "dependencies": [
+      "LLM2Vec",
+      "numpy",
+      "os",
+      ".llm2vec",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/__init__.py",
+    "dependencies": [
+      "LLM2Vec",
+      ".llm2vec_wrapper",
+      ".llm2vec",
+      "LLM2VecEncoder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/llm2vec.py",
+    "dependencies": [
+      ".models.bidirectional_mistral",
+      ".models.bidirectional_gemma",
+      "logging",
+      "MistralBiModel",
+      "json",
+      "functools",
+      "Dict",
+      "Tensor",
+      "LlamaBiModel",
+      ".models.bidirectional_qwen2",
+      "os",
+      "transformers",
+      ".models.bidirectional_llama",
+      "tqdm.autonotebook",
+      "partial",
+      "GemmaBiModel",
+      "peft",
+      "numpy",
+      "tqdm",
+      "torch.multiprocessing",
+      "Qwen2BiModel",
+      "typing",
+      "PeftModel",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/models/attn_mask_utils.py",
+    "dependencies": [
+      "transformers.modeling_attn_mask_utils",
+      "AttentionMaskConverter",
+      "typing",
+      "torch",
+      "List"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/models/__init__.py",
+    "dependencies": [
+      ".bidirectional_qwen2",
+      "LlamaBiForMNTP",
+      "Qwen2BiForMNTP",
+      ".bidirectional_mistral",
+      "GemmaBiForMNTP",
+      "MistralBiForMNTP",
+      ".bidirectional_llama",
+      ".bidirectional_gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/models/bidirectional_llama.py",
+    "dependencies": [
+      "peft",
+      "transformers.cache_utils",
+      "logging",
+      "nn",
+      "transformers.modeling_attn_mask_utils",
+      "AttentionMaskConverter",
+      "transformers.models.llama.modeling_llama",
+      "Cache",
+      "LlamaConfig",
+      ".utils",
+      "transformers",
+      "transformers.utils",
+      "PeftModel",
+      "is_transformers_attn_greater_or_equal_4_43_1",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/model/llm2vec/models/utils.py",
+    "dependencies": [
+      "importlib.metadata",
+      "transformers.utils.import_utils",
+      "packaging",
+      "version",
+      "_is_package_available"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/bvh.py",
+    "dependencies": [
+      "re",
+      "Optional",
+      "numpy",
+      "Rotation",
+      "scipy.spatial.transform",
+      "typing",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/__init__.py",
+    "dependencies": [
+      "global_rots_to_local_rots",
+      ".definitions",
+      ".transforms",
+      "batch_rigid_transform",
+      ".kinematics",
+      ".registry",
+      "build_skeleton",
+      "SkeletonBase",
+      ".base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/transforms.py",
+    "dependencies": [
+      "einops",
+      "batch_rigid_transform",
+      ".kinematics",
+      "..tools",
+      "torch",
+      "ensure_batched"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/registry.py",
+    "dependencies": [
+      "kimodo.assets",
+      "Path",
+      "pathlib",
+      "SKELETONS_ROOT",
+      ".definitions"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/kinematics.py",
+    "dependencies": [
+      "einops",
+      "torch.nn.functional",
+      "typing",
+      "..tools",
+      "torch",
+      "ensure_batched",
+      "List"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/definitions.py",
+    "dependencies": [
+      "Path",
+      "numpy",
+      "SkeletonBase",
+      "pathlib",
+      "..tools",
+      "torch",
+      "ensure_batched",
+      ".base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/skeleton/base.py",
+    "dependencies": [
+      "kimodo.assets",
+      "Path",
+      ".transforms",
+      "Optional",
+      "pathlib",
+      ".kinematics",
+      "typing",
+      "torch",
+      "fk",
+      "skeleton_asset_path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/bvh.py",
+    "dependencies": [
+      "complete_motion_dict",
+      "kimodo.exports.motion_io",
+      "Pose",
+      "Tuple",
+      "glm",
+      "build_skeleton",
+      "tempfile",
+      "SpatialTransform",
+      "kimodo.geometry",
+      "kimodo.skeleton.registry",
+      "os",
+      "matrix_to_quaternion",
+      "Path",
+      "bvhio",
+      "pathlib",
+      "numpy",
+      "kimodo.skeleton.bvh",
+      "typing",
+      "parse_bvh_motion",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/mujoco.py",
+    "dependencies": [
+      "kimodo.assets",
+      "complete_motion_dict",
+      "kimodo.geometry",
+      "Optional",
+      "kimodo.exports.motion_io",
+      "kimodo.skeleton",
+      "numpy",
+      "os",
+      "kimodo.tools",
+      "xml.etree.ElementTree",
+      "Rotation",
+      "scipy.spatial.transform",
+      "typing",
+      "torch",
+      "skeleton_asset_path",
+      "ensure_batched",
+      "G1Skeleton34"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/motion_io.py",
+    "dependencies": [
+      "foot_detect_from_pos_and_vel",
+      "build_skeleton",
+      "bvh_to_kimodo_motion",
+      "kimodo.exports.bvh",
+      "__future__",
+      "kimodo.motion_rep.feature_utils",
+      "kimodo.exports.motion_formats",
+      "kimodo.geometry",
+      "get_smooth_root_pos",
+      "kimodo.skeleton.registry",
+      "os",
+      "matrix_to_quaternion",
+      "compute_heading_angle",
+      "io",
+      "annotations",
+      "kimodo.motion_rep.smooth_root",
+      "infer_npz_kind",
+      "Any",
+      "AMASSConverter",
+      "kimodo.motion_rep.feet",
+      "kimodo.exports.smplx",
+      "kimodo.skeleton",
+      "to_numpy",
+      "numpy",
+      "MujocoQposConverter",
+      "kimodo.tools",
+      "warnings",
+      "SkeletonBase",
+      "amass_npz_to_kimodo_motion",
+      "typing",
+      "torch",
+      "kimodo.exports.mujoco"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/__init__.py",
+    "dependencies": [
+      ".bvh",
+      ".motion_convert_lib",
+      "MujocoQposConverter",
+      ".motion_formats",
+      ".smplx",
+      "convert_motion_files",
+      ".motion_io",
+      "bvh_to_kimodo_motion",
+      ".mujoco"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/motion_convert_lib.py",
+    "dependencies": [
+      "kimodo.exports.motion_formats",
+      "kimodo.exports.motion_io",
+      "kimodo.exports.mujoco",
+      "numpy",
+      "MujocoQposConverter",
+      "kimodo.skeleton.registry",
+      "warnings",
+      "build_skeleton",
+      "kimodo.exports.smplx",
+      "AMASSConverter",
+      "bvh_to_kimodo_motion",
+      "annotations",
+      "kimodo.exports.bvh",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/motion_formats.py",
+    "dependencies": [
+      "numpy",
+      "os",
+      "read_bvh_frame_time_seconds",
+      "Literal",
+      "typing",
+      "annotations",
+      "kimodo.exports.bvh",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "kimodo/exports/smplx.py",
+    "dependencies": [
+      "kimodo.assets",
+      "complete_motion_dict",
+      "einops",
+      "Optional",
+      "kimodo.geometry",
+      "kimodo.exports.motion_io",
+      "numpy",
+      "axis_angle_to_matrix",
+      "os",
+      "kimodo.tools",
+      "typing",
+      "torch",
+      "skeleton_asset_path",
+      "ensure_batched"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmark/parse_folder.py",
+    "dependencies": [
+      "Path",
+      "defaultdict",
+      "collections",
+      "json",
+      "Any",
+      "argparse",
+      "pathlib",
+      "typing",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmark/embed_folder.py",
+    "dependencies": [
+      "load_json",
+      "Path",
+      "numpy",
+      "kimodo.meta",
+      "tqdm",
+      "kimodo.model.load_model",
+      "kimodo.tools",
+      "argparse",
+      "pathlib",
+      "load_model",
+      "torch",
+      "parse_prompts_from_meta"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmark/create_benchmark.py",
+    "dependencies": [
+      "load_json",
+      "matrix_to_axis_angle",
+      "snapshot_download",
+      "functools",
+      "KimodoMotionRep",
+      "Pool",
+      "huggingface_hub",
+      "kimodo.geometry",
+      "kimodo.motion_rep",
+      "SOMASkeleton77",
+      "argparse",
+      "Path",
+      "partial",
+      "pathlib",
+      "kimodo.skeleton",
+      "numpy",
+      "kimodo.skeleton.bvh",
+      "tqdm",
+      "kimodo.tools",
+      "parse_bvh_motion",
+      "torch",
+      "multiprocessing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmark/evaluate_folder.py",
+    "dependencies": [
+      "load_json",
+      "json",
+      "load_constraints_lst",
+      "kimodo.meta",
+      "kimodo.constraints",
+      "build_skeleton",
+      "SOMASkeleton30",
+      "argparse",
+      "Path",
+      "groupby",
+      "kimodo.metrics",
+      "Any",
+      "pathlib",
+      "parse_prompts_from_meta",
+      "itertools",
+      "kimodo.skeleton",
+      "kimodo.skeleton.definitions",
+      "numpy",
+      "tqdm",
+      "kimodo.tools",
+      "typing",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmark/generate_eval.py",
+    "dependencies": [
+      "load_json",
+      "load_constraints_lst",
+      "kimodo.meta",
+      "kimodo.constraints",
+      "DataLoader",
+      "kimodo.model",
+      "argparse",
+      "Path",
+      "groupby",
+      "Any",
+      "pathlib",
+      "DEFAULT_MODEL",
+      "parse_prompts_from_meta",
+      "itertools",
+      "numpy",
+      "shutil",
+      "tqdm",
+      "kimodo.tools",
+      "tqdm.auto",
+      "warnings",
+      "typing",
+      "torch.utils.data",
+      "torch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
