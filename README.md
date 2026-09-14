@@ -23,6 +23,7 @@ This repository provides:
 
 See the [full changelog](CHANGELOG.md) for a detailed list of all changes.
 
+- **[2026-07-10]** Released the [ARDY project](https://research.nvidia.com/labs/sil/projects/ardy/) -- a _real-time_ motion generation model with all the controllability of Kimodo!
 - **[2026-05-03]** _FIX_: fixed a bug causing incorrect calculation of averaged metrics for constraint test cases in the benchmark
 - **[2026-04-24]** _NEW_: improved multi-prompt generation and better support for small VRAM GPUs via `TEXT_ENCODER_DEVICE=cpu` env var
 - **[2026-04-10]** Released the [Kimodo Motion Generation Benchmark](#kimodo-motion-generation-benchmark) alongside new v1.1 Kimodo-SOMA models
@@ -210,6 +211,8 @@ These annotations are already included in the BONES-SEED dataset, but the standa
 Kimodo is part of a larger effort to enable humanoid motion data for robotics, physical AI, and other applications.
 
 Check out these related works:
+* [ARDY](https://github.com/nv-tlabs/ardy) - builds on top of Kimodo to enable real-time controllable motion generation for interactive applications
+* [MotionBricks](https://nvlabs.github.io/motionbricks/) - real-time motion generation framework that specializes in fast and robust motion in-betweening
 * [SOMA Body Model](https://github.com/NVlabs/SOMA-X) - a unified parameteric human body model
 * [BONES-SEED Dataset](https://huggingface.co/datasets/bones-studio/seed) - a large scale human(oid) motion capture dataset in SOMA and G1 format
 * [ProtoMotions](https://github.com/NVlabs/ProtoMotions) - simulation and learning framework for training physically simulated human(oid)s
@@ -247,3 +250,4 @@ This project builds upon excellent open-source projects:
 For questions or issues, please open an issue on this repository or reach out directly to the authors.
 
 ---
+ 
